@@ -1,4 +1,4 @@
-# Roqd-Accident-Dashboard_Analysis
+# Road-Accident-Dashboard_Analysis
 # Overview 
 The UK Road Accident Dashboard is a comprehensive tool designed to analyze and visualize road accident data across the United Kingdom. This project aims to provide valuable insights into various aspects of road safety by focusing on accident severity, total accidents, and the impact of external factors such as weather and road conditions. The dashboard enables users to explore year-over-year comparisons, understand trends, and identify critical areas for improving road safety.
 
